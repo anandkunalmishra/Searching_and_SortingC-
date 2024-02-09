@@ -1,0 +1,15 @@
+/Users/anandkunalmishra/Projects/Search_&_Sorting/bin/Debug/net7.0/Search_&_Sorting
+/Users/anandkunalmishra/Projects/Search_&_Sorting/bin/Debug/net7.0/Search_&_Sorting.deps.json
+/Users/anandkunalmishra/Projects/Search_&_Sorting/bin/Debug/net7.0/Search_&_Sorting.runtimeconfig.json
+/Users/anandkunalmishra/Projects/Search_&_Sorting/bin/Debug/net7.0/Search_&_Sorting.dll
+/Users/anandkunalmishra/Projects/Search_&_Sorting/bin/Debug/net7.0/Search_&_Sorting.pdb
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/Search_&_Sorting.csproj.AssemblyReference.cache
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/Search_&_Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/Search_&_Sorting.AssemblyInfoInputs.cache
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/Search_&_Sorting.AssemblyInfo.cs
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/Search_&_Sorting.csproj.CoreCompileInputs.cache
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/Search_&_Sorting.dll
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/refint/Search_&_Sorting.dll
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/Search_&_Sorting.pdb
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/Search_&_Sorting.genruntimeconfig.cache
+/Users/anandkunalmishra/Projects/Search_&_Sorting/obj/Debug/net7.0/ref/Search_&_Sorting.dll
